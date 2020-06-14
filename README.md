@@ -10,7 +10,7 @@ Using the "income" range/bracket as the target variable, two decision tree model
 The performance of the 2 trees were compared using 10 fold cross-validation.
 
 ## Clustering: 
-K means clusterning algorith run  on the data.
+K means clustering algorithm run  on the data.
 
 # Data reduction: 
 Performed numerosity reduction using sampling and feature reduction with PCA(principle component analysis). 
